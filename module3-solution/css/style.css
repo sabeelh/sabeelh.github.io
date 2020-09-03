@@ -1,0 +1,87 @@
+	*{
+
+		font-family: "Courier New", Courier;
+		font-weight: bold;
+
+
+	}
+	body{
+		align-content: center;
+		/*padding: 10px;
+		margin: 10px;*/
+	}
+	h1{
+		text-align:center;
+	}
+	h2{
+		margin-top: 20px;
+		margin-bottom: 20px;
+		text-align:center;
+	}
+
+
+	#myNavbar a{
+		color: black;
+		width: 100%;
+		text-align: center;
+	}
+	#navbar {
+		color: black;
+		background-color: gray;
+		align-items: right;
+		border: 2px;
+		border-color: black;
+		border-radius: 0;
+	}
+
+	.navbar-brand {
+		color: black  ! important;
+		font-size: 2em;
+		margin-top: 1px;
+	}
+
+	.navbar-collapse {
+		width: 100%;
+	}
+
+	#myNavbar {
+		float: right;
+		color: black  ! important;
+	}
+
+	.icon-bar {
+  	color:black;
+  	}
+
+	
+
+	#main-content > #recipe {
+		background-color: gray;
+		padding: 20px;
+		padding-top: 0;
+		height: 1000px;
+	}
+
+	#main-content  p {
+		text-align: justify;
+	}
+/*
+
+	@media (min-width: 992px)
+	{
+		
+	}
+
+	@media (min-width: 768px) and (max-width: 991px)
+	{
+
+	}
+
+
+	@media (max-width: 767px)
+	{
+
+	}
+
+
+*/
