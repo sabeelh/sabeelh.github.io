@@ -32,4 +32,5 @@ function toconsole() {
   			}
   		}
   	})(window);
+  	document.getElementById("Divcontent").innerHTML = "Go, check Console";
   };
