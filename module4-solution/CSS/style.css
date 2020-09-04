@@ -18,6 +18,11 @@
 
   	}
 
+    #div4listing button {
+      width: auto;
+      font-size:.3em;
+    }
+
   	button {
   		height: 50px;
   		width: 100px;
@@ -30,10 +35,13 @@
   		background-color: white; /* Green */
   		color: black;
 	}
+    #mycontent {
+      height: 80px;
+    }
   	footer {
   		background-color: indigo;
   		width: 100%;
-  		height: 100px;
+  		height: 120px;
   		font-size:1.8em;
 
   	}
